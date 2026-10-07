@@ -1,5 +1,5 @@
 context:
-  version: "1.1.5"
+  version: "1.2.0"
 
 package:
   name: esp-pylib
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/e/esp_pylib/esp_pylib-${{ version }}.tar.gz
-  sha256: 3006bc9562f9526957e09ee848817463c22fe10ccf8ea68b61553906cbc089e0
+  sha256: 51f0c44a0f7a92fdded9cab54bde92441b22b464f7d684ed179afb57000bed70
 
 build:
   noarch: python
